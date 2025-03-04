@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abidta001" alt="abidta001" /></a> </p>
 
-- Currently working on [Cine-GO](https://github.com/abidta001/Cine-Go)
+- Currently working on [Microservices](https://github.com/abidta001/Microservice_Project)
 
 - 🌱 I’m currently learning **Microservices, GRPC, Devops**
 
 - Main Project [Horizon Ecommerce](https://github.com/abidta001/Horizon-Ecommerce)
 
-- Mini Project [Book Store CLI](https://github.com/abidta001/Book-Store-CLI)
+- Mini Project [Cine-GO](https://github.com/abidta001/Cine-Go)
 
 - 👨‍💻 All of my projects are available at [www.horizonweb.me](www.horizonweb.me)
 
